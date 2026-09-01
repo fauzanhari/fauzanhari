@@ -1,6 +1,6 @@
 # <img src="./assets/profile-banner.svg" alt="Fauzan Hari Ramdani" width="100%" />
 
-<!-- <h1 align="center">Muhammad Raja Daffa</h1> -->
+<!-- <h1 align="center">Fauzan Hari Ramdani</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
   ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder 
