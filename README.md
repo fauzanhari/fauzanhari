@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Fauzan Hari Ramdani</h1> -->
 <p align="center">
   <!-- <strong>Rza</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder 
+  ☕ Coding Enthusiast | 🎨 UI/UX 
 </p>
 
 <p align="center">
@@ -59,13 +59,7 @@
 
 ## Currently Building
 
-Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
-
-## Cybersecurity Fundamentals
-
-<p align="center">
-  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
-</p>
+Full stack applications, and internal tools with a focus on reliability and practical value.
 
 ## GitHub Statistics
 
