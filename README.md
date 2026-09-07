@@ -45,14 +45,6 @@ Full stack applications, and internal tools with a focus on reliability and prac
 </p>
 
 <p>
-  <img src="https://github-readme-activity-graph-eight-zeta.vercel.app/graph?username=fauzanhari&bg_color=00000000&color=94A3B8&line=22D3EE&point=38BDF8&area=true&hide_border=true" alt="GitHub activity graph" width="100%" />
-</p>
-
-<p>
-  <img src="https://raw.githubusercontent.com/fauzanhari/fauzanhari/main/metrics.plugin.pagespeed.svg?v=4" alt="PageSpeed metrics for rzadaffa.netlify.app" width="100%" />
-</p>
-
-<p>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fauzanhari/fauzanhari/output/puzzle-bobble-contribution-graph-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fauzanhari/fauzanhari/output/puzzle-bobble-contribution-graph.svg" />
